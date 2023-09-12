@@ -1,23 +1,28 @@
-import csv, json
+import csv
 from geojson import Feature, FeatureCollection, Point
 
 features = []
 with open('theCSV.csv', newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=';')
     first_row = next(reader)
-    for Thema, Nr, Kategorie, Zeitbereich, Zeitbemerkung, Raum, lat, lon, Title in reader:
+    for topic, nr, category, time, room, lat, lon, title, url in reader:
         lat, lon = map(float, (lat, lon))
         features.append(
             Feature(
+                id='event/'+nr,
                 properties={
-                    'name': 'Nr: ' + Nr + '\n' + Title,
-                    'alt_name': Nr,
-                    'room': Kategorie,
-                    'ref': Raum,
-                    'description': Zeitbemerkung,
+                    'id': "event/"+nr,
+                    'number': nr,
+                    'name': title,
+                    'place': room,
+                    'category': category,
+                    'time': time,
+                    'description': "",
+                    'url': url,
                 },
                 geometry = Point((lon, lat))
             )
+
         )
 
 collection = FeatureCollection(features)
@@ -29,14 +34,14 @@ with open("GeoObs.json", "w", newline='\n') as f:
 """
     {
         "type": "Feature",
-        "properties": {
-            "@id": "nood/1",
-            "indoor": "room",
-            "ref": "1.269/1.271",
-            "name": "Nr: 1 \n Einführung in die Künstliche Intelligenz."
-            "alt_name": "1"
-            "room": "Showvorlesung"
-            "description": "10.30 –11.30\n14.30 –15.30"
+      "properties": {
+        "id": 24,
+        "name": "NetQuest",
+        "place": "Gebäude 4 Foyer",
+        "category": "Spielerisch die OST erleben",
+        "time": "permanent",
+        "description": "",
+        "url": ""
         },
         "geometry": {
             "type": "Point",
