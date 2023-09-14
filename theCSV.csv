@@ -1,542 +1,169 @@
-﻿Thema;Nr;Kategorie;Zeitbemerkung;Raum;Nordwert (lat);Ostwert (lon);Title;url
-Künstliche Intelligenz;1;Showvorlesung;"10.30 –11.30
+﻿Thema;Nr;Kategorie;Zeitbemerkung;Raum;lat;lon;Title;url
+Künstliche Intelligenz;1;Showvorlesung;"10.30 –11.30 
 14.30 –15.30";Gebäude 1, 1.269/1.271;47.2233351;8.8172381;Einführung in die Künstliche Intelligenz;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/einfuehrung-in-die-kuenstliche-intelligenz
-Künstliche Intelligenz;4;Show + Workshop;"10.30 – 11.30
-13.30 – 14.30";Gebäude 1, 1.259;47.2230322;8.8176056;"Geht das zu weit? Umweltbewusstere
-Ferienplanung
-mit KI in Zeiten des Klimawandels";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/geht-das-zu-weit-umweltbewusstere-ferienplanung-mit-ki-in-zeiten-des-klimawandels
-Künstliche Intelligenz;15;Showvorlesung;"11.30 – 12.00
-14.30 – 15.00";Gebäude 1, 1.267;47.2232716;8.8173236;"Wie künstliche Intelligenz
-unser Suchen und Lernen
-revolutioniert";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wie-kuenstliche-intelligenz-unser-suchen-und-lernen-revolutioniert
-Künstliche Intelligenz;78;Vorführung;permanent;"Gebäude 1
-Foyer Nord";47.2238564;8.8176401;Mit KI in neue Welten;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/ai-photobooth
-Klima und Energie;28;Führung;"13.30 – 14.15
-14.30 – 15.15";Power-to-Gas;47.2244346;8.8261041;"Energie der Zukunft: Wie
-kann man mit Wasserstoff
-Strom speichern?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/forschungsplattform-power-to-x
-Klima und Energie;42;Vorführung;"10.30 – 10.50
-13.30 – 13.50
-15.30 – 15.50";"Gebäude 2
-Eingang";47.2235651;8.8177574;"Hagelprüfung: Beschuss
-von Test-Objekten mit
-Eiskugeln";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/hagelpruefung
-Klima und Energie;43;Führung;"11.30 – 11.50
-14.30 – 14.50";"Gebäude 2
-vor Treppe";47.2235847;8.8177846;"Forschungslabor Solardach:
-Solare Wärme für die
-Energiewende";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/solardach-solare-waerme-fuer-die-energiewende-1
-Klima und Energie;44;Vortrag;"11.30 – 11.50
-14.30 – 14.50";Gebäude 3, 3.113;47.2227169;8.8180562;"Kann die Schweiz klimaneutral
-werden ohne fossile
-Energie?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/klimaneutrale-schweiz-ohne-fossile-energie-synthetische-energietraeger-und-carbon-capture
-Klima und Energie;46;"Showobjekt mit
-Erklärung";permanent;"Zwischen
-Gebäude 5
-und 6";47.2236662;8.8163761;"Cool Green – Die blau-grüne
-Zukunft zur Hitzeminimierung
-in Städten";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/cool-green-die-blau-gruene-zukunft
-Klima und Energie;47;Vortrag;"11.30 – 11.50
-13.30 – 13.50";Gebäude 3, 3.114;47.2227765;8.8181789;"Wie funktioniert eine solare
-Trinkwasseraufbereitung?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/solare-trinkwasseraufbereitung-1
-Klima und Energie;66;Vortrag;"10.30 – 10.50
-11.30 – 11.50
-13.30 – 13.50
-14.30 – 14.50
-15.30 – 15.50";Gebäude 1, 1.279;47.2236211;8.8171030;"Unendliche Produkte ohne
-Abfall? Kreislaufwirtschaft
-verstehen und erleben.
-(Die Ausstellung wird permanent
-angeboten.)";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/unendliche-produkte-ohne-abfall-kreislaufwirtschaft-verstehen-und-erleben
-Klima und Energie;70;"Spielerisch die
-OST erleben";permanent;"Zwischen
-Gebäude 2
-und 8";47.2233028;8.8180860;"Solarspringbrunnen: Mit
-Sonnenenergie einen Ping-
-Pongball tanzen lassen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/begeisterung-fuer-solarenergie-wecken
-Gesund leben und altern;29;Wettbewerb;permanent;Gebäude 8, 8.U00;47.2232975;8.8186164;Swing It - Wie gut sind deine koordinativen Fähigkeiten?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wettbewerb-swing-it-challenge
-Gesund leben und altern;30;Vortrag;"10.30 – 11.00
-14.30 – 15.00";"Gebäude 1
-Foyer Süd";47.2230477;8.8177983;Zukunft der Barrierefreiheit;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/zukunft-der-barrierefreiheit
-Gesund leben und altern;32;Showvorlesung;"11.30 – 11.50
-14.30 – 14.50";Techpark;47.2238564;8.8176401;"Besser, schneller, weiter:
-Mit neuen Kunststoffen zu
-Höchstleistungen im Sport";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/besser-schneller-weiter-wie-faserverstaerkte-kunststoffe-hoechstleistungen-ermoeglichen-1-1
-Gesund leben und altern;33;Ausstellung;permanent;Techpark;47.2238564;8.8176401;"Hochleistungssportgeräte
-aus modernen Kunststoffen
-zum Anfassen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/faserverbundtechnik-in-sport-und-reha
-Technik;34;"Spielerisch die
-OST erleben";permanent;Techpark;47.2238564;8.8176401;"Kugellabyrinth: Stelle dein
-eigenes Geschicklichkeitsspiel
-her";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/geduldsspiel-laserschweisen-kugel-in-loch
-Technik;35;"Installation und
-Vorführung";permanent;Techpark;47.2238564;8.8176401;"3D-Druck LIVE!
-Einblicke in die spannende
-Welt dieser Fertigungstechnologie";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/einblick-in-die-spannende-welt-des-3-drucks
-Technik;36;Showvorlesung;"10.30 – 10.50
-13.30 – 13.50";Techpark;47.2238564;8.8176401;"Spannende Anwendungen
-des 3D-Drucks in der
-Raumfahrtindustrie und
-Medizintechnik";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/applikation-von-additive-fertigung-luft-und-raumfahrtindustrie-medizintechnik
-Technik;37;Vorführung;permanent;Techpark;47.2238564;8.8176401;"Becherrecycling an Grossveranstaltungen
-– Wie könnte es gehen?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/becherrecycling-an-grossveranstaltungen-wie-koennte-es-gehen
-Technik;38;Vorführung;permanent;Techpark;47.2238564;8.8176401;"Kunststoffrecycling – Es
-geht!";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/vorstellung-recyclingaktivitaeten
-Technik;40;Vorführung;permanent;Techpark;47.2238564;8.8176401;"Spritzgiessen erleben: Wie
-werden Unihockeybälle
-hergestellt?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/spritzgiessen-erleben-herstellung-von-unihockeybaellen
-Technik;41;Showvorlesung;"11.30 – 12.00
-14.30 – 15.00";Techpark;47.2238564;8.8176401;"Live Projekt – wie wird
-der Einwegbecher durch
-Recycling zu einem neuen
-Bauteil?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/live-projekt-einwegbecher-zu-technischen-bauteilen
-Technik;45;Führung;"10.30 – 11.00
-11.30 – 12.00
-13.30 – 14.00
-14.30 – 15.00
-15.30 – 16.00";"Gebäude 2
-Eingang";47.2235426;8.8177973;"Mit Plasmatechnologie die
-Abluft reinigen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/plasmatechnologie-im-alltag-und-in-der-industrie
-Technik;48;Installation;permanent;"Gebäude 4
-Foyer";47.2232498;8.8166524;"Event-Kamera: laufe durch
-ein Bild und lasse dich
-einbauen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/event-kamera-emulator
-Technik;50;Vorführung;"10.30 – 10.40
-11.30 – 11.40
-13.30 – 13.40
-14.30 – 14.40
-15.30 – 15.40";Gebäude 8, 8.041;47.2233905;8.8185792;"Indoor Navigation:
-Erkennen von Objekten im
-Innenraum";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/indoor-navigation
-Technik;51;Showvorlesung;"10.30 – 10.50
-14.30 – 14.50";Gebäude 4, 4.114;47.2231070;8.8166658;"So funktioniert Augmented
-Reality – Die Kombination
-aus Realität und Animation";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/so-funktioniert-augmented-reality
-Technik;52;"Ausbildung zum
-Anfassen";permanent;Gebäude 2, 2.101;47.2236324;8.8177350;"Electronics4you: Baue
-deinen eigenen elektronischen
-Kreisel";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/elektronik-an-der-ost-electronics4you-4
-Technik;53;"Showobjekt mit
-Erklärung";permanent;"Vor Gebäude
-8";47.2231562;8.8182996;Mobiles Funkmesslabor;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wireless-research-vehicle
-Technik;57;Vorführung;permanent;Gebäude 4, 4.116;47.2232038;8.8168525;"Computertechnik hebt ab
-– berührungslos schwebende
-Objekte im Raum";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/computertechnik-hebt-ab-beruehrungslos-schwebende-objekte-im-raum
-Technik;60;Showvorlesung;"10.30 – 11.15
-11.30 – 12.15
-13.30 – 14.15
-14.30 – 15.15";Gebäude 2, 2.106b;47.2237453;8.8183834;"Mikroelektronik: Winzige
-Wunderwerke mit gigantischer
-Wirkung";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/winzige-wunderwerke-mit-gigantischer-wirkung-wie-mikroelektronik-unser-leben-revolutioniert
-Technik;62;"Ausbildung zum
-Anfassen";permanent;Gebäude 6, 6.002;47.2234857;8.8159791;Sensorik zum Anfassen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/sensorik-zum-anfassen
-Technik;64;"Ausbildung zum
-Anfassen";"10.30 – 11.15
-11.30 – 12.15
-13.30 – 14.15
-14.30 – 15.15";Gebäude 3, 3.117;47.2227837;8.8176039;"Entwickle ein Legoschiff
-mit moderner Entwicklungsmethodik";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wing-classroom-scrum-game-eine-einfuehrung-in-agile-entwicklungsmethodik
-Technik;65;Vortrag, Demo;"10.30 – 11.30
-11.30 – 12.30
-13.30 – 14.30
-14.30 – 15.30";Gebäude 1, 1.255;47.2228948;8.8177611;"Mobile Robotersysteme
-für Such- und Rettungseinsätze";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/kooperative-mobile-robotersysteme-fuer-such-und-rettungseinsaetze
-Technik;77;"Ausbildung zum
-Anfassen";permanent;"Gebäude 1
-Foyer Nord";47.2235661;8.8172016;"Luftströmungen erleben
-und sichtbar machen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/luftstroemungen-sichtbar-machen-und-erleben-laborexperimente
-Informatik;13;Showvorlesung;"10.30 – 11.00
-11.30 – 12.00
-13.30 – 14.00
-14.30 – 15.00";Gebäude 1, 1.265;47.2232043;8.8174061;"Vom Code zum Bild Grafiken programmieren in
-Dr. Racket";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/vom-code-zum-bild-grafiken-programmieren-in-dr-racket
-Informatik;16;"Ausbildung zum
-Anfassen";permanent;Gebäude 8, 8.U00;47.2232323;8.8187442;Adventure Box;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/escape-room
-Informatik;17;Showvorlesung;"10.30 – 11.00
-14.30 – 15.00";Gebäude 1, 1.251;47.2229795;8.8179774;"Wie funktioniert das Internet,
-das grösste Computernetzwerk
-der Welt";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wie-funktioniert-das-internet-das-groesste-computernetzwerk-der-welt
-Informatik;18;Showvorlesung;"11.30 – 11.40
-14.30 – 14.40";Gebäude 1, 1.227;47.2230342;8.8179703;"Das Gute, das Schlechte,
-das Hässliche und das
-Internet der Dinge";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/das-gute-das-schlechte-das-haessliche-und-das-internet-der-dinge
-Informatik;20;Showvorlesung;"10.30 – 11.00
-14.30 – 15.00";Gebäude 1, 1.225;47.2231002;8.8181152;"Der Weg der Datenpakete –
-Licht ins Dunkle bringen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/der-weg-der-datenpakete-licht-ins-dunkle-bringen
-Informatik;21;Showvorlesung;"11.30 – 12.00
-15.30 – 16.00";Gebäude 1, 1.221;47.2231883;8.8180230;"Auf dem richtigen Kurs:
-Eine Einführung in ein
-fortschrittliches Netzwerkkonzept";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/auf-dem-richtigen-kurs-eine-einfuehrung-in-ein-fortschrittliches-netzwerkkonzept
-Informatik;23;Showvorlesung;"10.30 – 11.15
-14.30 – 15.15";Gebäude 1, 1.215;47.2233955;8.8177809;"Einsatz der Simulation zur
-Prozessverbesserung";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/einsatz-der-simulation-zur-prozess-verbesserung
-Informatik;54;Vortrag;"10.30 – 10.40
-13.30 – 13.40";Gebäude 1, 1.219;47.2232585;8.8179804;"Computer-Netze auf
-Knopfdruck";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/lab-topology-builder-ltb-neu
-Informatik;58;Vortrag;"10.30 – 10.50
-11.30 – 11.50
-13.30 – 13.50
-14.30 – 14.50
+Künstliche Intelligenz;4;Show + Workshop;"10.30 – 11.30 
+13.30 – 14.30";Gebäude 1, 1.259;47.2230322;8.8176056;Geht das zu weit? Umweltbewusstere Ferienplanung mit KI in Zeiten des Klimawandels;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/geht-das-zu-weit-umweltbewusstere-ferienplanung-mit-ki-in-zeiten-des-klimawandels
+Künstliche Intelligenz;15;Showvorlesung;"11.30 – 12.00 
+14.30 – 15.00";Gebäude 1, 1.267;47.2232716;8.8173236;Wie künstliche Intelligenz unser Suchen und Lernen revolutioniert;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wie-kuenstliche-intelligenz-unser-suchen-und-lernen-revolutioniert
+Künstliche Intelligenz;78;Vorführung;permanent;Gebäude 1 Foyer Nord;47.2238564;8.8176401;Mit KI in neue Welten;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/ai-photobooth
+Klima und Energie;28;Führung;"13.30 – 14.15 
+14.30 – 15.15";Power-to-Gas;47.2244346;8.8261041;Energie der Zukunft: Wie kann man mit Wasserstoff Strom speichern?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/forschungsplattform-power-to-x
+Klima und Energie;42;Vorführung;"10.30 – 10.50 
+13.30 – 13.50 
+15.30 – 15.50";Gebäude 2 Eingang;47.2235651;8.8177574;Hagelprüfung: Beschuss von Test-Objekten mit Eiskugeln;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/hagelpruefung
+Klima und Energie;43;Führung;"11.30 – 11.50 
+14.30 – 14.50";Gebäude 2 vor Treppe;47.2235847;8.8177846;Forschungslabor Solardach: Solare Wärme für die Energiewende;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/solardach-solare-waerme-fuer-die-energiewende-1
+Klima und Energie;44;Vortrag;"11.30 – 11.50 
+14.30 – 14.50";Gebäude 3, 3.113;47.2227169;8.8180562;Kann die Schweiz klimaneutral werden ohne fossile Energie?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/klimaneutrale-schweiz-ohne-fossile-energie-synthetische-energietraeger-und-carbon-capture
+Klima und Energie;46;Showobjekt mit Erklärung;permanent;Zwischen Gebäude 5 und 6;47.2236662;8.8163761;Cool Green – Die blau-grüne Zukunft zur Hitzeminimierung in Städten;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/cool-green-die-blau-gruene-zukunft
+Klima und Energie;47;Vortrag;"11.30 – 11.50 
+13.30 – 13.50";Gebäude 3, 3.114;47.2227765;8.8181789;Wie funktioniert eine solare Trinkwasseraufbereitung?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/solare-trinkwasseraufbereitung-1
+Klima und Energie;66;Vortrag;"10.30 – 10.50 
+11.30 – 11.50 
+13.30 – 13.50 
+14.30 – 14.50 
+15.30 – 15.50";Gebäude 1, 1.279;47.223623;8.8171083;Unendliche Produkte ohne Abfall? Kreislaufwirtschaft verstehen und erleben. (Die Ausstellung wird permanent angeboten.);https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/unendliche-produkte-ohne-abfall-kreislaufwirtschaft-verstehen-und-erleben
+Klima und Energie;70;Spielerisch die OST erleben;permanent;Zwischen Gebäude 2 und 8;47.2233028;8.8180860;Solarspringbrunnen: Mit Sonnenenergie einen Ping-Pongball tanzen lassen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/begeisterung-fuer-solarenergie-wecken
+Gesund leben und altern;29;Wettbewerb;permanent;Gebäude 8, 8.U00;47.2232225;8.8186033;Swing It - Wie gut sind deine koordinativen Fähigkeiten?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wettbewerb-swing-it-challenge
+Gesund leben und altern;30;Vortrag;"10.30 – 11.00 
+14.30 – 15.00";Gebäude 1 Foyer Süd;47.2230477;8.8177983;Zukunft der Barrierefreiheit;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/zukunft-der-barrierefreiheit
+Gesund leben und altern;32;Showvorlesung;"11.30 – 11.50 
+14.30 – 14.50";Techpark;47.2238564;8.8176401;Besser, schneller, weiter: Mit neuen Kunststoffen zu Höchstleistungen im Sport;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/besser-schneller-weiter-wie-faserverstaerkte-kunststoffe-hoechstleistungen-ermoeglichen-1-1
+Gesund leben und altern;33;Ausstellung;permanent;Techpark;47.2238564;8.8176401;Hochleistungssportgeräte aus modernen Kunststoffen zum Anfassen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/faserverbundtechnik-in-sport-und-reha
+Technik;34;Spielerisch die OST erleben;permanent;Techpark;47.2238564;8.8176401;Kugellabyrinth: Stelle dein eigenes Geschicklichkeitsspiel her;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/geduldsspiel-laserschweisen-kugel-in-loch
+Technik;35;Installation und Vorführung;permanent;Techpark;47.2238564;8.8176401;3D-Druck LIVE! Einblicke in die spannende Welt dieser Fertigungstechnologie;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/einblick-in-die-spannende-welt-des-3-drucks
+Technik;36;Showvorlesung;"10.30 – 10.50 
+13.30 – 13.50";Techpark;47.2238564;8.8176401;Spannende Anwendungen des 3D-Drucks in der Raumfahrtindustrie und Medizintechnik;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/applikation-von-additive-fertigung-luft-und-raumfahrtindustrie-medizintechnik
+Technik;37;Vorführung;permanent;Techpark;47.2238564;8.8176401;Becherrecycling an Grossveranstaltungen – Wie könnte es gehen?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/becherrecycling-an-grossveranstaltungen-wie-koennte-es-gehen
+Technik;38;Vorführung;permanent;Techpark;47.2238564;8.8176401;Kunststoffrecycling – Es geht!;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/vorstellung-recyclingaktivitaeten
+Technik;40;Vorführung;permanent;Techpark;47.2238564;8.8176401;Spritzgiessen erleben: Wie werden Unihockeybälle hergestellt?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/spritzgiessen-erleben-herstellung-von-unihockeybaellen
+Technik;41;Showvorlesung;"11.30 – 12.00 
+14.30 – 15.00";Techpark;47.2238564;8.8176401;Live Projekt – wie wird der Einwegbecher durch Recycling zu einem neuen Bauteil?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/live-projekt-einwegbecher-zu-technischen-bauteilen
+Technik;45;Führung;"10.30 – 11.00 
+11.30 – 12.00 
+13.30 – 14.00 
+14.30 – 15.00 
+15.30 – 16.00";Gebäude 2 Eingang;47.2235426;8.8177973;Mit Plasmatechnologie die Abluft reinigen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/plasmatechnologie-im-alltag-und-in-der-industrie
+Technik;48;Installation;permanent;Gebäude 4 Foyer;47.2232498;8.8166524;Event-Kamera: laufe durch ein Bild und lasse dich einbauen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/event-kamera-emulator
+Technik;50;Vorführung;"10.30 – 10.40 
+11.30 – 11.40 
+13.30 – 13.40 
+14.30 – 14.40 
+15.30 – 15.40";Gebäude 8, 8.041;47.2233905;8.8185792;Indoor Navigation: Erkennen von Objekten im Innenraum;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/indoor-navigation
+Technik;51;Showvorlesung;"10.30 – 10.50 
+14.30 – 14.50";Gebäude 4, 4.114;47.2231070;8.8166658;So funktioniert Augmented Reality – Die Kombination aus Realität und Animation;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/so-funktioniert-augmented-reality
+Technik;52;Ausbildung zum Anfassen;permanent;Gebäude 2, 2.101;47.2236324;8.8177350;Electronics4you: Baue deinen eigenen elektronischen Kreisel;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/elektronik-an-der-ost-electronics4you-4
+Technik;53;Showobjekt mit Erklärung;permanent;Vor Gebäude 8;47.2231562;8.8182996;Mobiles Funkmesslabor;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wireless-research-vehicle
+Technik;57;Vorführung;permanent;Gebäude 4, 4.116;47.2232038;8.8168525;Computertechnik hebt ab – berührungslos schwebende Objekte im Raum;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/computertechnik-hebt-ab-beruehrungslos-schwebende-objekte-im-raum
+Technik;60;Showvorlesung;"10.30 – 11.15 
+11.30 – 12.15 
+13.30 – 14.15 
+14.30 – 15.15";Gebäude 2, 2.106b;47.2237453;8.8183834;Mikroelektronik: Winzige Wunderwerke mit gigantischer Wirkung;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/winzige-wunderwerke-mit-gigantischer-wirkung-wie-mikroelektronik-unser-leben-revolutioniert
+Technik;62;Ausbildung zum Anfassen;permanent;Gebäude 6, 6.002;47.2234884;8.8159292;Sensorik zum Anfassen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/sensorik-zum-anfassen
+Technik;64;Ausbildung zum Anfassen;"10.30 – 11.15 
+11.30 – 12.15 
+13.30 – 14.15 
+14.30 – 15.15";Gebäude 3, 3.117;47.2227837;8.8176039;Entwickle ein Legoschiff mit moderner Entwicklungsmethodik;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wing-classroom-scrum-game-eine-einfuehrung-in-agile-entwicklungsmethodik
+Technik;65;Vortrag, Demo;"10.30 – 11.30 
+11.30 – 12.30 
+13.30 – 14.30 
+14.30 – 15.30";Gebäude 1, 1.255;47.2228948;8.8177611;Mobile Robotersysteme für Such- und Rettungseinsätze;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/kooperative-mobile-robotersysteme-fuer-such-und-rettungseinsaetze
+Technik;77;Ausbildung zum Anfassen;permanent;Gebäude 1 Foyer Nord;47.2235661;8.8172016;Luftströmungen erleben und sichtbar machen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/luftstroemungen-sichtbar-machen-und-erleben-laborexperimente
+Informatik;13;Showvorlesung;"10.30 – 11.00 
+11.30 – 12.00 
+13.30 – 14.00 
+14.30 – 15.00";Gebäude 1, 1.265;47.2232043;8.8174061;Vom Code zum Bild Grafiken programmieren in Dr. Racket;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/vom-code-zum-bild-grafiken-programmieren-in-dr-racket
+Informatik;16;Ausbildung zum Anfassen;permanent;Gebäude 8, 8.U00;47.2232689;8.8186875;Adventure Box;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/escape-room
+Informatik;17;Showvorlesung;"10.30 – 11.00 
+14.30 – 15.00";Gebäude 1, 1.251;47.2229795;8.8179774;Wie funktioniert das Internet, das grösste Computernetzwerk der Welt;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wie-funktioniert-das-internet-das-groesste-computernetzwerk-der-welt
+Informatik;18;Showvorlesung;"11.30 – 11.40 
+14.30 – 14.40";Gebäude 1, 1.227;47.2230342;8.8179703;Das Gute, das Schlechte, das Hässliche und das Internet der Dinge;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/das-gute-das-schlechte-das-haessliche-und-das-internet-der-dinge
+Informatik;20;Showvorlesung;"10.30 – 11.00 
+14.30 – 15.00";Gebäude 1, 1.225;47.2231002;8.8181152;Der Weg der Datenpakete –Licht ins Dunkle bringen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/der-weg-der-datenpakete-licht-ins-dunkle-bringen
+Informatik;21;Showvorlesung;"11.30 – 12.00 
+15.30 – 16.00";Gebäude 1, 1.221;47.2231883;8.8180230;Auf dem richtigen Kurs: Eine Einführung in ein fortschrittliches Netzwerkkonzept;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/auf-dem-richtigen-kurs-eine-einfuehrung-in-ein-fortschrittliches-netzwerkkonzept
+Informatik;23;Showvorlesung;"10.30 – 11.15 
+14.30 – 15.15";Gebäude 1, 1.215;47.2233955;8.8177809;Einsatz der Simulation zur Prozessverbesserung;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/einsatz-der-simulation-zur-prozess-verbesserung
+Informatik;54;Vortrag;"10.30 – 10.40 
+13.30 – 13.40";Gebäude 1, 1.219;47.2232585;8.8179804;Computer-Netze auf Knopfdruck;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/lab-topology-builder-ltb-neu
+Informatik;58;Vortrag;"10.30 – 10.50 
+11.30 – 11.50 
+13.30 – 13.50 
+14.30 – 14.50 
 15.30 – 15.50";Gebäude 1, 1.277;47.2235454;8.8170034;Hacking for beginners;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/hacking-for-beginners
-Architektur, Bau, Landschaft, Raum;22;Ausstellung;permanent;"Gebäude
-6, EG und
-1. OG";47.2236246;8.8161639;"Ausstellung der Bachelorarbeiten
-der Studierenden
-Landschaftsarchitektur";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/ausstellung-der-abschlussarbeit-der-studierenden-landschaftsarchitektur
-Architektur, Bau, Landschaft, Raum;25;Führung;"10.30 – 11.30
-14.30 – 15.30";"Gebäude 2
-Eingang";47.2235410;8.8177534;"Laborrundgänge Wasserbau,
-Geotechnik, Baustoffprüfstelle";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/laborrundgaenge-wasserbau-geotechnik-baustoffpruefstelle
-Architektur, Bau, Landschaft, Raum;27;Ausstellung;permanent;"Zwischen
-Gebäude 4
-und 6";47.2234340;8.8166299;"Bauausstellung - Studentische
-Visionen der architektonischen
-Weiterentwicklung
-des Campus";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/bauausstellung
-Architektur, Bau, Landschaft, Raum;68;Führung;"10.30 – 11.30
-14.30 – 15.30";"Gebäude 4
-Eingang";47.2233300;8.8168690;"Führung durch den
-Campus-Garten";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/fuehrung-durch-den-campus-garten
-Architektur, Bau, Landschaft, Raum;69;Führung;"10.30 – 11.30
-14.30 – 15.30";"Gebäude 5
-Eingang";47.2235720;8.8168002;"Einblick in die Gartenkunstgeschichte
-der Schweiz (Führung durch das Archiv
-für Schweizer Landschaftsarchitektur
-ASLA)";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/einblick-in-die-gartenkunstgeschichte-der-schweiz
-Interkulturelle Kompetenz;14;Vortrag;"10.30 – 11.00
-11.30 – 12.00
-14.30 – 15.00
-15.30 – 16.00";Gebäude 1, 1.273;47.2234604;8.8170869;"Future Skills – Ohne Kommunikation
-ist alles nix.
-(Videos zum Thema Fremdsprachenkompetenzen
-werden ausserhalb der Vortragszeiten
-permanent in
-der Ausstellung angeboten.)";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/future-skills-ohne-kommunikation-ist-alles-nix-eine-tour-durch-das-ikik-institut-fuer-kommunikation-und-interkulturelle-kompetenz
-Wirtschaft;7;Showvorlesung;"10.30 – 11.15
-13.30 – 14.15";Gebäude 1, 1.261;47.2230886;8.8175388;"Low Code in der Praxis –
-Programmieren (fast) ohne
-Programmierkenntnisse?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/programmieren-fast-ohne-programmierkenntnisse-low-code-in-der-praxis
-Wirtschaft;80;Showvorlesung;"10.30 – 11.00
-11.30 – 12.00";Gebäude 1, 1.201;47.2236761;8.8172039;"Navigieren in der Digitalen
-Welt – Was Digitalverantwortung
-heisst";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/navigieren-in-der-digitalen-welt-was-digitalverantwortung-heisst
-Chemie und Physik;2;Showvorlesung;"10.30 – 11.15
+Architektur, Bau, Landschaft, Raum;22;Ausstellung;permanent;Gebäude 6, EG und 1. OG;47.2236246;8.8161639;Ausstellung der Bachelorarbeiten der Studierenden Landschaftsarchitektur;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/ausstellung-der-abschlussarbeit-der-studierenden-landschaftsarchitektur
+Architektur, Bau, Landschaft, Raum;25;Führung;"10.30 – 11.30 
+14.30 – 15.30";Gebäude 2 Eingang;47.2235410;8.8177534;Laborrundgänge Wasserbau, Geotechnik, Baustoffprüfstelle;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/laborrundgaenge-wasserbau-geotechnik-baustoffpruefstelle
+Architektur, Bau, Landschaft, Raum;27;Ausstellung;permanent;Zwischen Gebäude 4 und 6;47.2234340;8.8166299;Bauausstellung - Studentische Visionen der architektonischen Weiterentwicklung des Campus;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/bauausstellung
+Architektur, Bau, Landschaft, Raum;68;Führung;"10.30 – 11.30 
+14.30 – 15.30";Gebäude 4 Eingang;47.2233300;8.8168690;Führung durch den Campus-Garten;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/fuehrung-durch-den-campus-garten
+Architektur, Bau, Landschaft, Raum;69;Führung;"10.30 – 11.30 
+14.30 – 15.30";Gebäude 5 Eingang;47.2235720;8.8168002;Einblick in die Gartenkunstgeschichte der Schweiz (Führung durch das Archiv für Schweizer Landschaftsarchitektur ASLA);https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/einblick-in-die-gartenkunstgeschichte-der-schweiz
+Interkulturelle Kompetenz;14;Vortrag;"10.30 – 11.00 
+11.30 – 12.00 
+14.30 – 15.00 
+15.30 – 16.00";Gebäude 1, 1.273;47.2234604;8.8170869;Future Skills – Ohne Kommunikation ist alles nix. (Videos zum Thema Fremdsprachenkompetenzen werden ausserhalb der Vortragszeiten permanent in der Ausstellung angeboten.);https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/future-skills-ohne-kommunikation-ist-alles-nix-eine-tour-durch-das-ikik-institut-fuer-kommunikation-und-interkulturelle-kompetenz
+Wirtschaft;7;Showvorlesung;"10.30 – 11.15 
+13.30 – 14.15";Gebäude 1, 1.261;47.2230886;8.8175388;Low Code in der Praxis –Programmieren (fast) ohne Programmierkenntnisse?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/programmieren-fast-ohne-programmierkenntnisse-low-code-in-der-praxis
+Wirtschaft;80;Showvorlesung;"10.30 – 11.00 
+11.30 – 12.00";Gebäude 1, 1.201;47.2236761;8.8172039;Navigieren in der Digitalen Welt – Was Digitalverantwortung heisst;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/navigieren-in-der-digitalen-welt-was-digitalverantwortung-heisst
+Chemie und Physik;2;Showvorlesung;"10.30 – 11.15 
 14.30 – 15.15";Gebäude 3, 3.008;47.2228308;8.8180032;Chemie-Show;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/chemie-show
-Chemie und Physik;3;Showvorlesung;"11.30 – 12.00
-13.30 – 14.00";Gebäude 3, 3.010;47.2227282;8.8178698;"Die faszinierende Welt der
-Physik";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/die-faszinierende-welt-der-physik
-OST-Rahmenprogramm;5;Rahmenprogramm;permanent;"Gebäude 4
-Eingang";47.2233279;8.8167949;"Datacafé – Mit Daten
-bezahlen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/datacafe-mit-daten-bezahlen
-OST-Rahmenprogramm;6;Rahmenprogramm;permanent;"Gebäude 4
-Eingang";47.2232860;8.8168415;"Wo ist was? Campusplan
-Infoposten";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wo-ist-was-campusplan-infoposten
-OST-Rahmenprogramm;9;Rahmenprogramm;permanent;"Gebäude 4
-Foyer";47.2231731;8.8165716;Glücksrad;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/versuchen-sie-ihr-glueck-am-gluecksrad
-OST-Rahmenprogramm;19;Führung;"11.30 – 12.00
-13.30 – 14.00
-15.30 – 16.00";"Gebäude 5
-Aufgang zur
-Bibliothek";47.2235804;8.8166088;"Kunstführung in der
-Bibliothek";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/grafiken-aus-der-erker-stiftung-fuehrung-durch-die-grafik-ausstellung
-Studierendenparty;81;Abendprogramm;Ab 16:00;Gebäude 3;47.2229515;8.8175512;Studierendenparty;
+Chemie und Physik;3;Showvorlesung;"11.30 – 12.00 
+13.30 – 14.00";Gebäude 3, 3.010;47.2227282;8.8178698;Die faszinierende Welt der Physik;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/die-faszinierende-welt-der-physik
+OST-Rahmenprogramm;5;Rahmenprogramm;permanent;Gebäude 4 Eingang;47.2233279;8.8167949;Datacafé – Mit Daten bezahlen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/datacafe-mit-daten-bezahlen
+OST-Rahmenprogramm;6;Rahmenprogramm;permanent;Gebäude 4 Eingang;47.2232860;8.8168415;Wo ist was? Campusplan Infoposten;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wo-ist-was-campusplan-infoposten
+OST-Rahmenprogramm;9;Rahmenprogramm;permanent;Gebäude 4 Foyer;47.2231660;8.8165578;Glücksrad;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/versuchen-sie-ihr-glueck-am-gluecksrad
+OST-Rahmenprogramm;19;Führung;"11.30 – 12.00 
+13.30 – 14.00 
+15.30 – 16.00";Gebäude 5 Aufgang zur Bibliothek;47.2235804;8.8166088;Kunstführung in der Bibliothek;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/grafiken-aus-der-erker-stiftung-fuehrung-durch-die-grafik-ausstellung
+Studierendenparty;81;Abendprogramm;Ab 16:00;Gebäude 3;47.2229515;8.8175512;Studierendenparty;-
 Kinder- und Jugendprogramm;11;Kinderprogramm;permanent;Gebäude 8, 8.U00;47.2232997;8.8186121;OST Quest;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/ost-quest
-Informatik;24;"Spielerisch die
-OST erleben";permanent;"Gebäude 4
-Foyer";47.2232084;8.8165608;NetQuest;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/netquest-2
-Kinder- und Jugendprogramm;26;"Spielerisch die
-OST erleben";"10.30 - 11.15
-11.30 - 12.15
-13.30 - 14.15
-14.30 - 15.15
-15.30 - 16.00";"Gebäude 5
-Foyer";47.2236522;8.8168696;Stadtraum planen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/stadtraum-planen-1
-Kinder- und Jugendprogramm;31;Kinderprogramm;permanent;Gebäude 3, 3.109;47.2228582;8.8180243;"Marktplatz der Ideen: Reale
-Beispiele aus verschiedenen
-Anwendungsgebieten
-zum Anfassen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wir-machen-produkte-erfolgreich-innovation-entlang-der-wertschoepfungskette
-Kinder- und Jugendprogramm;55;"Spielerisch die
-OST erleben";"10.30 – 11.00
-11.30 – 12.00
-13.30 – 14.00
-14.30 – 15.00
-15.30 – 16.00";"Zwischen
-Gebäude 1
-und 5";47.2237212;8.8170674;"Goldwaschen, wer findet
-die Nuggets?";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/goldwaschen
-Kinder- und Jugendprogramm;59;"Spielerisch die
-OST erleben";permanent;Gebäude 6, 6.002;47.2234821;8.8159657;"Führe eine Kugel durch ein
-Labyrinth";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/kugellabyrinth
-Kinder- und Jugendprogramm;61;"Spielerisch die
-OST erleben";"10.30 – 11.15
-11.30 – 12.15
-13.30 – 14.15
-14.30 – 15.15";Gebäude 6, 6.006;47.2237459;8.8160516;"Roboter selber bauen und
-programmieren";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/roboter-selber-bauen-und-programmieren
-Kinder- und Jugendprogramm;63;"Spielerisch die
-OST erleben";permanent;Gebäude 6, 6.002;47.2235077;8.8159644;"Mit Ultraschall-Sensoren
-durch ein Labyrinth";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/mit-ultraschall-sensoren-durch-ein-labyrinth
-Kinder- und Jugendprogramm;74;Kinderprogramm;permanent;"Vor Gebäude
-8";47.2230302;8.8181990;Hüpfburg;
-Kinder- und Jugendprogramm;75;Kinderprogramm;permanent;"Vor Gebäude
-8";47.2230839;8.8183613;Kinderschminken;
-Kinder- und Jugendprogramm;76;Kinderprogramm;11.30 – 15.30;Campus RJ;47.2232850;8.8163265;Ballonkünstler;
-Kinder- und Jugendprogramm;77;"Spielerisch die
-OST erleben";permanent;"Gebäude 1
-Foyer Nord";47.2235596;8.8171962;"Wie baue ich ein Windrad
-aus PET-Flaschen?";
-Studieren in Rapperswil-Jona;8.1;Betriebsökonomie;"10.30 – 11.00
-11.30 – 12.00
-13.30 – 14.00";Gebäude 1, 1.263;47.2231502;8.8174637;"Wirtschaft praxisnah und
-chancenreich erleben mit
-Praixprojekten";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/praxisprojekte-in-den-wirtschaftsstudiengaengen-studierende-packen-an-und-setzen-um-3
-Studieren in Rapperswil-Jona;8.2;Wirtschaftsinformatik;"10.30 – 11.00
-11.30 – 12.00
-13.30 – 14.00";Gebäude 1, 1.263;47.2231700;8.8174822;"Praxisprojekte für digitale
-Leader";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/praxisprojekte-in-den-wirtschaftsstudiengaengen-studierende-packen-an-und-setzen-um
-Studieren in Rapperswil-Jona;10;Informatik;permanent;Gebäude 8, 8.U00;47.2232820;8.8185678;Informatik zum Anfassen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/inormatik-zum-anfassen
-Studieren in Rapperswil-Jona;12;"Erneuerbare
-Energien und
-Umwelttechnik";"11.30 – 12.00
-14.30 – 15.00";Gebäude 1, 1.209;47.2235926;8.8175345;"Innovative Technik für eine
-nachhaltige Zukunft";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/innovative-technik-fuer-eine-nachhaltige-zukunft
-Studieren in Rapperswil-Jona;39;Maschinentechnik | Innovation;"10.30 – 11.00
-11.30 – 12.00
-13.30 – 14.00
-14.30 – 15.00";Gebäude 1, 1.217;47.2233239;8.8178677;"Innovationen durch
-Studierende: Spannende
-Entwicklungsprojekte für
-die Rega und Geberit";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/vorstellung-des-studiengangs-mi-am-beispiel-der-entwicklungsprojekte-von-der-idee-bis-zum-fertigen-produkt
-Studieren in Rapperswil-Jona;49;"Electrical and
-Computer
-Engineering";"10.30 – 10.50
-11.30 – 11.50
-13.30 – 13.50
-14.30 – 14.50
-15.30 – 15.50";Gebäude 4, 4.115;47.2231529;8.8167603;"Mit Spiel und Spass die
-Elektrotechnik kennenlernen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/spiel-spass-und-lernen-mit-batterielosen-klickern
-Studieren in Rapperswil-Jona;56;Wirtschaftsingenieurwesen;permanent;Gebäude 3, 3.117;47.2227756;8.8175888;"Die abwechslungsreiche
-Arbeitswelt kennenlernen
-und selber erleben";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wing-world-das-berufsbild-wirtschaftsingenieurin-in-der-praxis
-Studieren in Rapperswil-Jona;67;Landschaftsarchitektur;"10.30 – 11.00
-14.30 – 15.00";Gebäude 1, 1.207;47.2236902;8.8174215;"Mit Parks und Freiflächen
-unsere grünen Lungen
-stärken";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/landschaftsarchitektin-als-beruf
-Studieren in Rapperswil-Jona;71;"Stadt-, Verkehrsund
-Raumplanung";"11.30 – 12.00
-14.30 – 15.00";Gebäude 5, 5.001;47.2237132;8.8166343;"Urbane und ländliche Räume
-lebenswert gestalten";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/raumplanerin-als-beruf
-Studieren in Rapperswil-Jona;72;Bauingenieurwesen;"11.30 – 12.00
-15.30 – 16.00";Gebäude 1, 1.205;47.2237341;8.8173672;"Mit Bauwerken unsere
-Lebenswelt nachhaltig
-prägen";https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/bauingenieurin-als-beruf
-Studieren in Rapperswil-Jona;79;"Master of
-Science in Engineering
-(MSE)";permanent;Gebäude 3, 3.117;47.2227821;8.8175177;"Ein Masterabschluss öffnet
-Türen";
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
+Informatik;24;Spielerisch die OST erleben;permanent;Gebäude 4 Foyer;47.2232084;8.8165608;NetQuest;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/netquest-2
+Kinder- und Jugendprogramm;26;Spielerisch die OST erleben;"10.30 - 11.15 
+11.30 - 12.15 
+13.30 - 14.15 
+14.30 - 15.15 
+15.30 - 16.00";Gebäude 5 Foyer;47.2236522;8.8168696;Stadtraum planen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/stadtraum-planen-1
+Kinder- und Jugendprogramm;31;Kinderprogramm;permanent;Gebäude 3, 3.109;47.2228582;8.8180243;Marktplatz der Ideen: Reale Beispiele aus verschiedenen Anwendungsgebieten zum Anfassen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wir-machen-produkte-erfolgreich-innovation-entlang-der-wertschoepfungskette
+Kinder- und Jugendprogramm;55;Spielerisch die OST erleben;"10.30 – 11.00 
+11.30 – 12.00 
+13.30 – 14.00 
+14.30 – 15.00 
+15.30 – 16.00";Zwischen Gebäude 1 und 5;47.2237212;8.8170674;Goldwaschen, wer findet die Nuggets?;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/goldwaschen
+Kinder- und Jugendprogramm;59;Spielerisch die OST erleben;permanent;Gebäude 6, 6.002;47.2234529;8.8159647;Führe eine Kugel durch ein Labyrinth;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/kugellabyrinth
+Kinder- und Jugendprogramm;61;Spielerisch die OST erleben;"10.30 – 11.15 
+11.30 – 12.15 
+13.30 – 14.15 
+14.30 – 15.15";Gebäude 6, 6.006;47.2237459;8.8160516;Roboter selber bauen und programmieren;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/roboter-selber-bauen-und-programmieren
+Kinder- und Jugendprogramm;63;Spielerisch die OST erleben;permanent;Gebäude 6, 6.002;47.2234955;8.8159791;Mit Ultraschall-Sensoren durch ein Labyrinth;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/mit-ultraschall-sensoren-durch-ein-labyrinth
+Kinder- und Jugendprogramm;74;Kinderprogramm;permanent;Vor Gebäude 8;47.2230302;8.8181990;Hüpfburg;-
+Kinder- und Jugendprogramm;75;Kinderprogramm;permanent;Vor Gebäude 8;47.2230839;8.8183613;Kinderschminken;-
+Kinder- und Jugendprogramm;76;Kinderprogramm;11.30 – 15.30;Campus RJ;47.2232850;8.8163265;Ballonkünstler;-
+Kinder- und Jugendprogramm;77;Spielerisch die OST erleben;permanent;Gebäude 1 Foyer Nord;47.2236100;8.8172589;Wie baue ich ein Windrad aus PET-Flaschen?;-
+Studieren in Rapperswil-Jona;8.1;Betriebsökonomie;"10.30 – 11.00 
+11.30 – 12.00 
+13.30 – 14.00";Gebäude 1, 1.263;47.2231502;8.8174637;Wirtschaft praxisnah und chancenreich erleben mit Praixprojekten;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/praxisprojekte-in-den-wirtschaftsstudiengaengen-studierende-packen-an-und-setzen-um-3
+Studieren in Rapperswil-Jona;8.2;Wirtschaftsinformatik;"10.30 – 11.00 
+11.30 – 12.00 
+13.30 – 14.00";Gebäude 1, 1.263;47.2231700;8.8174822;Praxisprojekte für digitale Leader;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/praxisprojekte-in-den-wirtschaftsstudiengaengen-studierende-packen-an-und-setzen-um
+Studieren in Rapperswil-Jona;10;Informatik;permanent;Gebäude 8, 8.U00;47.2232771;8.8185343;Informatik zum Anfassen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/inormatik-zum-anfassen
+Studieren in Rapperswil-Jona;12;Erneuerbare Energien und Umwelttechnik;"11.30 – 12.00 
+14.30 – 15.00";Gebäude 1, 1.209;47.2235926;8.8175345;Innovative Technik für eine nachhaltige Zukunft;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/innovative-technik-fuer-eine-nachhaltige-zukunft
+Studieren in Rapperswil-Jona;39;Maschinentechnik | Innovation;"10.30 – 11.00 
+11.30 – 12.00 
+13.30 – 14.00 
+14.30 – 15.00";Gebäude 1, 1.217;47.2233239;8.8178677;Innovationen durch Studierende: Spannende Entwicklungsprojekte für die Rega und Geberit;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/vorstellung-des-studiengangs-mi-am-beispiel-der-entwicklungsprojekte-von-der-idee-bis-zum-fertigen-produkt
+Studieren in Rapperswil-Jona;49;Electrical and Computer Engineering;"10.30 – 10.50 
+11.30 – 11.50 
+13.30 – 13.50 
+14.30 – 14.50 
+15.30 – 15.50";Gebäude 4, 4.115;47.2231529;8.8167603;Mit Spiel und Spass die Elektrotechnik kennenlernen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/spiel-spass-und-lernen-mit-batterielosen-klickern
+Studieren in Rapperswil-Jona;56;Wirtschaftsingenieurwesen;permanent;Gebäude 3, 3.117;47.2227293;8.8175707;Die abwechslungsreiche Arbeitswelt kennenlernen und selber erleben;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/wing-world-das-berufsbild-wirtschaftsingenieurin-in-der-praxis
+Studieren in Rapperswil-Jona;67;Landschaftsarchitektur;"10.30 – 11.00 
+14.30 – 15.00";Gebäude 1, 1.207;47.2236902;8.8174215;Mit Parks und Freiflächen unsere grünen Lungen stärken;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/landschaftsarchitektin-als-beruf
+Studieren in Rapperswil-Jona;71;Stadt-, Verkehrsund Raumplanung;"11.30 – 12.00 
+14.30 – 15.00";Gebäude 5, 5.001;47.2237132;8.8166343;Urbane und ländliche Räume lebenswert gestalten;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/raumplanerin-als-beruf
+Studieren in Rapperswil-Jona;72;Bauingenieurwesen;"11.30 – 12.00 
+15.30 – 16.00";Gebäude 1, 1.205;47.2237341;8.8173672;Mit Bauwerken unsere Lebenswelt nachhaltig prägen;https://events.ost.ch/tag-der-offenen-tuer-in-rapperswil/eventplaner-tag-der-offenen-tuer-in-rapperswil/veranstaltungen/bauingenieurin-als-beruf
+Studieren in Rapperswil-Jona;79;Master of Science in Engineering (MSE);permanent;Gebäude 3, 3.117;47.2227821;8.8175177;Ein Masterabschluss öffnet Türen;-
