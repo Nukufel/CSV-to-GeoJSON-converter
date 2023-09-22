@@ -26,5 +26,5 @@ with open('theCSV.csv', newline='') as csvfile:
         )
 
 collection = FeatureCollection(features)
-with open("GeoObs.json", "w", newline='\n') as f:
+with open("GeoObs2.json", "w", newline='\n') as f:
     f.write('%s' % collection)
