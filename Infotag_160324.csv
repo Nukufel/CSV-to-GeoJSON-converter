@@ -1,13 +1,13 @@
 ﻿Thema;Nr;Kategorie;Zeitbemerkung;Raum;lat;lon;Title;url
--;1;-;09.00 – 15.00;Gebäude 1;47.2235889;8.8172233;Infomarkt;-
--;2;-;09.35 – 09.50;Gebäude 4, Aula;47.2229347;8.8163768;Begrüssung;-
--;3;-;10.00 – 15.00;Gebäude 1, 1. Stock;47.2234317;8.8174580;Coffe, Food & Chat;-
--;4;-;11.30 – 13.00;Vor Gebäude 1;47.2232610;8.8172492;Lunch;-
--;5;-;10.00 | 12.45;Zwischen Gebäude 1 & 4;47.2233170;8.8169783;Studiengang Rundgänge;-
--;6;-;09.00 – 15.00;Vor Gebäude 4;47.2234393;8.8168559;Power-to-Gas;-
--;7;-;09.00 – 15.00;Gebäude 1, 1. Stock;47.2233072;8.8173544;Adventure Box;-
--;8;-;09.00 – 15.00;Gebäude 1, 1. Stock;47.2232651;8.8174091;Erlebniswelt WING;-
--;9;-;09.00 – 12.00;Gebäude 1, 2. Stock, Raum 1.269/1.271;47.2233958;8.8171640;Informatik zum Anfassen;-
--;10;-;11.00 – 15.00;Gebäude 1, Foyer Nord;47.2234771;8.8172703;ICAI Photobooth;-
--;11;-;12.00 – 13.30;Gebäude 8, Bistro;47.2231417;8.8186865;"Talk am Mittag: Die Macherinnen
+Infomarkt;1;-;09.00 – 15.00;Gebäude 1;47.2235889;8.8172233;Infomarkt;-
+Hauptprogramm;2;-;09.35 – 09.50;Gebäude 4, Aula;47.2229347;8.8163768;Begrüssung;-
+Hauptprogramm;3;-;10.00 – 15.00;Gebäude 1, 1. Stock;47.2234317;8.8174580;Coffe, Food & Chat;-
+Hauptprogramm;4;-;11.30 – 13.00;Vor Gebäude 1;47.2232610;8.8172492;Lunch;-
+Hauptprogramm;5;-;10.00 | 12.45;Zwischen Gebäude 1 & 4;47.2233170;8.8169783;Studiengang Rundgänge;-
+Infomarkt;6;-;09.00 – 15.00;Vor Gebäude 4;47.2234393;8.8168559;Power-to-Gas;-
+Infomarkt;7;-;09.00 – 15.00;Gebäude 1, 1. Stock;47.2233072;8.8173544;Adventure Box;-
+Infomarkt;8;-;09.00 – 15.00;Gebäude 1, 1. Stock;47.2232651;8.8174091;Erlebniswelt WING;-
+Infomarkt;9;-;09.00 – 12.00;Gebäude 1, 2. Stock, Raum 1.269/1.271;47.2233958;8.8171640;Informatik zum Anfassen;-
+Infomarkt;10;-;11.00 – 15.00;Gebäude 1, Foyer Nord;47.2234771;8.8172703;ICAI Photobooth;-
+Infomarkt;11;-;12.00 – 13.30;Gebäude 8, Bistro;47.2231417;8.8186865;"Talk am Mittag: Die Macherinnen
 Erfolgreiche Frauen in der IT";-

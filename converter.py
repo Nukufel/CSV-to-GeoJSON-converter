@@ -16,6 +16,7 @@ with open(csv_to_convert, newline='') as csvfile:
                     'name': title,
                     'place': room,
                     'time': time,
+                    'category': topic,
                     'description': "",
                 },
                 geometry = Point((lon, lat))
