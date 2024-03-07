@@ -1,8 +1,8 @@
 import csv
 from geojson import Feature, FeatureCollection, Point
-
+csv_to_convert = 'Infotag_160324.csv'
 features = []
-with open('theCSV.csv', newline='') as csvfile:
+with open(csv_to_convert, newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=';')
     first_row = next(reader)
     for topic, nr, category, time, room, lat, lon, title, url in reader:
@@ -15,10 +15,8 @@ with open('theCSV.csv', newline='') as csvfile:
                     'number': nr,
                     'name': title,
                     'place': room,
-                    'category': category,
                     'time': time,
                     'description': "",
-                    'url': url,
                 },
                 geometry = Point((lon, lat))
             )
@@ -26,5 +24,6 @@ with open('theCSV.csv', newline='') as csvfile:
         )
 
 collection = FeatureCollection(features)
-with open("GeoObs2.json", "w", newline='\n') as f:
+
+with open("GeoObs.json", "w", newline='\n') as f:
     f.write('%s' % collection)
