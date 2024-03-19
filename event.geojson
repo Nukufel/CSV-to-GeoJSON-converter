@@ -1,0 +1,1 @@
+{"features": [{"geometry": {"coordinates": [8.817223, 47.223589], "type": "Point"}, "id": "event/1", "properties": {"category": "Ein Thema", "description": "Ein Beispiel", "id": "event/1", "name": "Ein Titel", "number": "1", "place": "Gebäude 1", "time": "09.00 – 15.00"}, "type": "Feature"}], "type": "FeatureCollection"}
